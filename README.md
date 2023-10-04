@@ -22,6 +22,10 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 
+https://github.com/FaultyPine/c323-project5/assets/53064235/1584ec43-87e5-4f5a-81a0-c0d3dfef8f2f
+
+
+
 
 Here's a walkthrough of implemented user stories:
 
